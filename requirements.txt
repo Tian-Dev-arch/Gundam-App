@@ -1,4 +1,4 @@
-flet==26.2.1
+flet==0.25.2
 deep-translator>=1.11.0
 requests>=2.31.0
 groq>=0.4.0
